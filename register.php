@@ -4,7 +4,7 @@
 	$firstName ="";
 	$emailAddress ="";
 	$password ="";
-	$birthDate = null;
+	$birthDate = "";
 ?>
 <!DOCTYPE html>
 <html>
@@ -17,17 +17,8 @@
 			<h1 class="text-center">Student Registration</h1>
 			<div class="col-lg-offset-3 col-lg-6">
 				<div class="well">
-					<form method="GET" action="welcome.php"
+					<form method="POST" action="welcome.php"
 						class="form-horizontal">
-						<div class="form-group">
-							<label class="control-label col-lg-4">
-								Student ID
-							</label>
-							<div class="col-lg-8">
-							<input type="text" name="sid"
-								class="form-control" required/>
-							</div>
-						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
 								Student ID
@@ -84,7 +75,7 @@
 						</div>
 						<div class="form-group">
 							<div class="col-lg-offset-4 col-lg-8">
-								<button name="Register" 
+								<button name="register" 
 									class="btn btn-success">
 									Register
 								</button>
