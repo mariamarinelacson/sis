@@ -1,21 +1,27 @@
 .well
 {
-    background-color:rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 label
 {
-	color:#FFFFFF;
+	color: #FFFFFF;
 }
 
 .btn	
 {
-	background-color:rgba(255, 0, 0, 0.8);
+	background-color: rgba(255, 0, 0, 0.8);
 	border: none;
 	font-size: 18px;
 }
 
-.btn:hover { 
-    background-color:rgba(0, 0, 0, 0.7);
+.btn:hover 
+{ 
+    background-color: rgba(0, 0, 0, 0.7);
     border: none;
+}
+
+.btn:active 
+{
+  transform: translateY(4px);
 }
