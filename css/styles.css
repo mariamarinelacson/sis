@@ -1,0 +1,21 @@
+.well
+{
+    background-color:rgba(0, 0, 0, 0.7);
+}
+
+label
+{
+	color:#FFFFFF;
+}
+
+.btn	
+{
+	background-color:rgba(255, 0, 0, 0.8);
+	border: none;
+	font-size: 18px;
+}
+
+.btn:hover { 
+    background-color:rgba(0, 0, 0, 0.7);
+    border: none;
+}
