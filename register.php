@@ -21,6 +21,7 @@
 						class="form-horizontal">
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+							<span class="glyphicon glyphicon-credit-card"></span>
 								Student ID
 							</label>
 							<div class="col-lg-8">
@@ -30,6 +31,7 @@
 						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+							<span class="glyphicon glyphicon-user"></span>
 								Last Name
 							</label>
 							<div class="col-lg-8">
@@ -39,6 +41,7 @@
 						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+							<span class="glyphicon glyphicon-user"></span>
 								First Name
 							</label>
 							<div class="col-lg-8">
@@ -48,6 +51,7 @@
 						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+								<span class="glyphicon glyphicon-envelope"></span>
 								Email Address
 							</label>
 							<div class="col-lg-8">
@@ -57,6 +61,7 @@
 						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+								<span class="glyphicon glyphicon-lock"></span>
 								Password
 							</label>
 							<div class="col-lg-8">
@@ -66,6 +71,7 @@
 						</div>
 						<div class="form-group">
 							<label class="control-label col-lg-4">
+								<span class="glyphicon glyphicon-calendar"></span>
 								Birthdate
 							</label>
 							<div class="col-lg-8">
