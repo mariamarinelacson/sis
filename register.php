@@ -11,8 +11,10 @@
 	<head>
 		<title>Student Registration</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet"/>
+		<link href="css/styles.css" rel="stylesheet"/>
 	</head>
 	<body>
+		<body background="http://www.designbolts.com/wp-content/uploads/2012/12/Stitched-Wool-White-Seamless-Textures-For-Website-Background.jpg">
 		<div class="container">
 			<h1 class="text-center">Student Registration</h1>
 			<div class="col-lg-offset-3 col-lg-6">
