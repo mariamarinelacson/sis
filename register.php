@@ -27,7 +27,7 @@
 								Student ID
 							</label>
 							<div class="col-lg-8">
-							<input type="text" name="sid"
+							<input type="number" name="sid"
 								class="form-control" required/>
 							</div>
 						</div>
